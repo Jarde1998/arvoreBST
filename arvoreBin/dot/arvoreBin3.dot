@@ -1,0 +1,11 @@
+digraph ArvoreBin {
+	5 [label="5"];
+	5 -> 4;
+	5 -> 10;
+	4 [label="4"];
+	4 -> 1;
+	1 [label="1"];
+	10 [label="10"];
+	10 -> 30;
+	30 [label="30"];
+}
